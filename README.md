@@ -17,3 +17,4 @@ The final file will show a 1.0 if the student has passed the certification level
 4. Starting from the left-most button (Upload Files button), use the GUI to upload files, merge them, check for errors, and finally save to a csv
 
 
+<img width="798" alt="image" src="https://github.com/user-attachments/assets/a018328f-25d0-4ceb-9e0d-c9d3b899f4dc">
