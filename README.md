@@ -12,9 +12,16 @@ The final file will show a 1.0 if the student has passed the certification level
 
 ## Instructions
 1. Download the input files report1.csv, report2.csv, and report3.csv along with the Python script file_merger.py.
-2. In a terminal, run file_merger.py
-3. A GUI will appear with four buttons
-4. Starting from the left-most button (Upload Files button), use the GUI to upload files, merge them, check for errors, and finally save to a csv
+2. In a terminal, install required packages from requirements.txt by running the following in terminal:
+   ```
+   pip install -r requirements. txt
+   ```
+3. Run file_merger.py
+   ```
+   python3 file_merger.py
+   ```
+4. A GUI will appear with four buttons:
+    - Starting from the left-most button (Upload Files button), use the GUI to upload files, merge them, check for errors, and finally save to a csv!
 
 
 <img width="798" alt="image" src="https://github.com/user-attachments/assets/a018328f-25d0-4ceb-9e0d-c9d3b899f4dc">
